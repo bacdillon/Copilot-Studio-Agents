@@ -1,4 +1,4 @@
-## Digital IT Helpdesk Support
+## Intelligent IT Helpdesk Support
 Assist you checking the status of ServiceNow IT helpdesk tickets (incidents) and provides information from knowledge articles related to company policies and HR scenarios.
 
 ## Instruction
