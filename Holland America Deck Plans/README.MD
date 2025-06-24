@@ -3,5 +3,7 @@ Holland America Line's deck plans provide a clear layout of each ship, showing w
  ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Copilot-Studio/blob/main/Holland%20America%20Deck%20Plans/Rotterdam.png)
 Whether you're booking a cabin or planning your onboard activities, deck plans are a handy guide for making the most of your cruise.
 
+This Copilot uses uploaded images of Holland America cruise ship deck plans, stored in Dataverse. The images are automatically chunked and vectorized, allowing the Copilot to answer questions about ship layouts, such as locations of amenities like casinos. The current focus is on the deck plans for the Rotterdam ship.
+
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Copilot-Studio/blob/main/Holland%20America%20Deck%20Plans/Holland%20America%20Deck%20Plans%20Recording.gif)
 
