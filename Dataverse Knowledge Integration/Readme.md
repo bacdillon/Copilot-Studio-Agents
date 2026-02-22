@@ -14,4 +14,4 @@ Example Queries:<br>
 2. What is their address?<br>
 3. Who is the primary contact for that account?<br>
 4. What is her job title?<br>
- ![Alt Text](https://github.com/bacdillon/Copilot-Studio-Agents/blob/main/Dataverse%20Knowledge%20Integration/Dataverse%20Knowledge%20Integration.gif)
+ ![Alt Text](<iframe title="vimeo-player" src="https://player.vimeo.com/video/1167077526?h=4e13b55c68" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>)
