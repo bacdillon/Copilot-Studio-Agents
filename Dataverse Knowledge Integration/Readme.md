@@ -15,4 +15,4 @@ Example Queries:<br>
 3. Who is the primary contact for that account?<br>
 4. What is her job title?<br>
 
-👉 <a href="https://vimeo.com/manage/videos/1167077526"</a>
+👉 <a href="https://vimeo.com/manage/videos/1167077526">Dataverse Knowledge Integration</a>
