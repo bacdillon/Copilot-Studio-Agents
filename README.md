@@ -1,5 +1,5 @@
 # Copilot-Studio
-Copilot Studio is a low-code development platform by Microsoft designed for creating AI-powered chatbots and virtual agents. It allows users—ranging from business users to professional developers—to build and deploy conversational experiences quickly and effectively.
+Copilot Studio is a low-code development platform by Microsoft designed for creating AI-powered virtual agents. It allows users—ranging from business users to professional developers—to build and deploy conversational experiences quickly and effectively.
 
 Key Features:
 - Natural Language Processing (NLP): Understands and responds to user queries in natural language.
