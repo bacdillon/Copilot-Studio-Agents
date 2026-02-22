@@ -8,7 +8,7 @@ Using Copilot Studio’s Knowledge feature, Dataverse tables are connected direc
 4. Business terminology understanding via column descriptions & glossary<br>
 5. Synonym support for flexible user queries<br>
 
-This implementation allows organizations to transform Dataverse data into an intelligent conversational assistant.<br>
+This implementation allows organizations to transform Dataverse data into an intelligent conversational assistant.<br><br>
 Example Queries:<br>
 1. Who is our largest account?<br>
 2. What is their address?<br>
