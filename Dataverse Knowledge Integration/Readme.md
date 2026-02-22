@@ -14,4 +14,5 @@ Example Queries:<br>
 2. What is their address?<br>
 3. Who is the primary contact for that account?<br>
 4. What is her job title?<br>
- ![Alt Text](<iframe title="vimeo-player" src="https://player.vimeo.com/video/1167077526?h=4e13b55c68" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>)
+
+👉 <a href="title="vimeo-player" src="https://player.vimeo.com/video/1167077526?h=4e13b55c68" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen>" target="_blank"></a>
