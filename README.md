@@ -9,6 +9,18 @@ Key Features:
 - Multichannel Support: Deploy bots across websites, Microsoft Teams, mobile apps, and other platforms.
 - Extensibility: Connects to backend systems, databases, and APIs to provide dynamic responses and perform actions.
 
+## Dataverse Knowledge Integration
+This copilot uses Microsoft Dataverse tables (Account and Contact) as a knowledge source to answer business-related queries. It leverages Copilot Studio’s Knowledge feature to retrieve, interpret, and respond to structured organizational data with conversational context.
+
+1. Use Dataverse tables (Account, Contact) as the primary knowledge source.
+2. Retrieve accurate data from indexed table records.
+3. Maintain conversation context across multiple questions.
+4. Use column descriptions, synonyms, and glossary definitions to understand business terminology.
+5. Provide clear, concise, and data-driven responses.
+6. If information is unavailable, respond appropriately instead of generating assumptions.
+
+ ![Alt Text](https://github.com/bacdillon/Copilot-Studio-Agents/blob/main/Hair%20For%20Hope%20Agent/img/main.png)
+
 ## Hair For Hope Agent
 The Hair for Hope virtual assistant supports participants, donors, volunteers, and the public by providing timely, accurate, and friendly information about Singapore’s largest head-shaving event in solidarity with children with cancer. It helps users register, donate, explore event details, access press resources, and understand the cause — offering a warm and caring digital experience that reflects the spirit of Hair for Hope. 🎗️ https://hairforhope.org.sg/
 
