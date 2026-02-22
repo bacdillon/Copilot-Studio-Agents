@@ -50,3 +50,7 @@ Assist you checking the status of ServiceNow IT helpdesk tickets (incidents) and
 7. Close the chat session: Thanks that was helpful
  ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/Digital-IT-Helpdesk-Support/blob/main/img/chat.png)
 
+## Demo Restaurant - Authentic and Traditional German Cuisine and Beer restaurant
+[![IMAGE ALT TEXT HERE](https://github.com/bacdillon/demo-coffee-house/blob/master/images/01.jpg
+)](https://bacdillon.github.io/demo-coffee-house/)
+
