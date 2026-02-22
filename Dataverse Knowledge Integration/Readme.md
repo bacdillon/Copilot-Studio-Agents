@@ -1,7 +1,7 @@
 ## Dataverse Knowledge Integration
 This demostrates uses Microsoft Dataverse tables (Account and Contact) as a knowledge source to answer business-related queries. It leverages Copilot Studio’s Knowledge feature to retrieve, interpret, and respond to structured organizational data with conversational context.
 
-Using Copilot Studio’s Knowledge feature, Dataverse tables are connected directly to the copilot, enabling:<br>
+Using Copilot Studio’s Knowledge feature where Dataverse tables are connected directly to the copilot, enabling:<br>
 1. Structured data retrieval<br>
 2. Cross-table querying (Account and Contact)<br>
 3. Context-aware conversations<br>
